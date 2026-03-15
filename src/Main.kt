@@ -1,6 +1,7 @@
 import java.lang.Thread.sleep
 
 fun main (){
+//SEMÁFARO
     var semafaroAberto =true
     val t1 =Thread{
         while(true){
